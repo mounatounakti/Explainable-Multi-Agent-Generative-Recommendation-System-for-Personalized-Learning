@@ -21,7 +21,7 @@ The system analyzes learner performance, generates personalized quizzes, recomme
 4. Explainability Agent
 
 **Workflow**  
-pic
+![1](workflow.png)
 
 
 ## Technologies Used
@@ -31,9 +31,9 @@ pic
 
 ```text
 .
-├── workflow.json        # n8n workflow 
-├── index.html           # Streamlit UI 
-├── draft-paper.pdf      # Project report 
+├── workflow.json        # n8n workflow
+├── index.html           # Streamlit UI
+├── draft-paper.pdf      # Project report
 └── README.md
 ```
 
